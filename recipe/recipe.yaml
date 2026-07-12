@@ -85,8 +85,7 @@ about:
     - LICENSE-APACHE
     - LICENSE-MIT
     - THIRDPARTY.yml
-  homepage: https://github.com/sh-cho/idt
-  documentation: https://sh-cho.github.io/idt
+  homepage: https://sh-cho.github.io/idt
   repository: https://github.com/sh-cho/idt
 
 extra:
