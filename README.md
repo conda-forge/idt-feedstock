@@ -13,6 +13,12 @@ Development: https://github.com/sh-cho/idt
 
 Documentation: https://sh-cho.github.io/idt
 
+idt (ID Tool) is a fast, ergonomic CLI tool for working with various
+identifier formats. Whether you need to generate, inspect, convert, or
+validate IDs, idt provides a unified interface for all your identifier needs
+including support for UUID (all versions), ULID, NanoID, Snowflake, assigned
+IDs (EAN, ISBN, ISIN), and more.
+
 Current build status
 ====================
 
