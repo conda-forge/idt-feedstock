@@ -3,15 +3,13 @@ About idt-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/idt-feedstock/blob/main/LICENSE.txt)
 
-Home: https://github.com/sh-cho/idt
+Home: https://sh-cho.github.io/idt
 
 Package license: MIT OR Apache-2.0
 
 Summary: A fast, ergonomic CLI tool for working with various ID formats
 
 Development: https://github.com/sh-cho/idt
-
-Documentation: https://sh-cho.github.io/idt
 
 idt (ID Tool) is a fast, ergonomic CLI tool for working with various
 identifier formats. Whether you need to generate, inspect, convert, or
